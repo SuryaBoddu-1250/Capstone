@@ -1,0 +1,57 @@
+Day;Time;Issue Category;Action;ResolutionTime (in Mins)
+Monday;09:00:00;File system Space issue;Remove dump files;20
+Monday;19:15:00;Job failures;Restarted job;35
+Tuesday;13:00:12;service down;restarted service;15
+Wednesday;20:12:00;service down;restarted service;15
+Thurseday;09:00:00;File system Space issue;Remove dump files;20
+Friday;19:15:00;service down;Fixed config and Restarted service;35
+Saturday;13:00:12;service down;Fixed config and Restarted service;15
+Sunday;20:12:00;Disk space full;Cleared files;15
+Monday;19:15:00;No input files from upstream;Restarted job;35
+Tuesday;13:00:12;Report Delivery issues;restarted service;15
+Wednesday;20:12:00;Log space full (DB);restarted service;11
+Thurseday;09:00:00;Network down;Remove dump files;120
+Friday;19:15:00;User Maintenance;Fixed config and Restarted service;35
+Saturday;13:00:12;·Database issues;Fixed config and Restarted service;15
+Monday;19:15:00;Job failures;Restarted job;35
+Tuesday;13:00:12;service down;restarted service;15
+Wednesday;20:12:00;service down;restarted service;15
+Thurseday;09:00:00;File system Space issue;Remove dump files;20
+Friday;19:15:00;service down;Fixed config and Restarted service;60
+Saturday;13:00:12;service down;Fixed config and Restarted service;34
+Sunday;20:12:00;Disk space full;Cleared files;15
+Monday;19:15:00;No input files from upstream;Restarted job;35
+Tuesday;13:00:12;Report Delivery issues;restarted service;15
+Wednesday;20:12:00;Log space full (DB);restarted service;15
+Thurseday;09:00:00;Network down;Remove dump files;20
+Friday;19:15:00;User Maintenance;Fixed config and Restarted service;35
+Saturday;13:00:12;·Database issues;Fixed config and Restarted service;15
+Monday;19:15:00;Job failures;Restarted job;35
+Tuesday;13:00:12;service down;restarted service;15
+Wednesday;20:12:00;service down;restarted service;15
+Thurseday;09:00:00;File system Space issue;Remove dump files;20
+Friday;19:15:00;service down;Fixed config and Restarted service;35
+Saturday;13:00:12;service down;Fixed config and Restarted service;15
+Sunday;20:12:00;Disk space full;Cleared files;15
+Monday;19:15:00;No input files from upstream;Restarted job;35
+Tuesday;13:00:12;Report Delivery issues;restarted service;15
+Wednesday;13:00:12;Report Delivery issues;restarted service;15
+Thurseday;13:00:12;Report Delivery issues;restarted service;15
+Friday;13:00:12;Report Delivery issues;restarted service;15
+Saturday;20:12:00;Log space full (DB);restarted service;15
+Monday;09:00:00;Network down;Remove dump files;20
+Tuesday;19:15:00;User Maintenance;Fixed config and Restarted service;35
+Wednesday;13:00:12;·Database issues;Fixed config and Restarted service;15
+Thurseday;19:15:00;Job failures;Restarted job;35
+Friday;13:00:12;service down;restarted service;15
+Saturday;20:12:00;service down;restarted service;15
+Sunday;09:00:00;File system Space issue;Remove dump files;20
+Monday;19:15:00;service down;Fixed config and Restarted service;35
+Tuesday;13:00:12;service down;Fixed config and Restarted service;15
+Wednesday;20:12:00;Disk space full;Cleared files;15
+Thurseday;19:15:00;No input files from upstream;Restarted job;35
+Friday;13:00:12;Report Delivery issues;restarted service;15
+Saturday;20:12:00;Log space full (DB);restarted service;15
+;09:00:00;Network down;Remove dump files;20
+;19:15:00;User Maintenance;Fixed config and Restarted service;35
+;13:00:12;·Database issues;Fixed config and Restarted service;15
